@@ -1,3 +1,3 @@
-dohcheck
-dnsproxy
+dohcheck   
+dnsproxy   
 testdns
